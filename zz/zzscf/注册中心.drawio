@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T01:25:49.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lQpwSg2n7pcQAT9WgULd" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T01:27:19.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="oPBUx7-H3qEQfD2TSQ6f" version="15.7.3" type="github">
   <diagram id="d8PLCpCWK5KChwIpnZl2" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,6 +65,12 @@
         </mxCell>
         <mxCell id="HCptvA-KU4coDuSBJ7c2-39" value="轮询事件" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=-30;strokeWidth=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="620" y="414" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29Ksuv6mtqIfJAz07HZ2-1" value="注册" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=300;" vertex="1" parent="1">
+          <mxGeometry x="850" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29Ksuv6mtqIfJAz07HZ2-2" value="发现" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=54;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
